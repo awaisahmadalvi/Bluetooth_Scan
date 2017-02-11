@@ -1,0 +1,5 @@
+install https://github.com/hardkernel/WiringPi2-Python.git
+apt-get install python
+pip ** serial
+apt-get install mysql-server
+
